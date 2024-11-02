@@ -1,0 +1,1 @@
+En este repositorio se encuentra el codigo de un proyecto para detectar si tienes los ojos cerrados, inmediantamente los cierres el programa espera unos segundos antes de emitir un sido para despertarte.
